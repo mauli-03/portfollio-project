@@ -1,0 +1,53 @@
+/* Basic Styling for Portfolio Website */
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f7fa;
+  color: #333;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.profile-photo {
+  width: 150px;
+  border-radius: 50%;
+  margin: 20px auto;
+  display: block;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #222;
+}
+
+footer {
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
