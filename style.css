@@ -51,3 +51,26 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
+/* Design Update Enhancements */
+header {
+  background: linear-gradient(90deg, #1e1e2f, #3a3a6a);
+}
+
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+footer {
+  background: #1e1e2f;
+  color: #ccc;
+}
