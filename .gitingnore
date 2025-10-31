@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Node.js dependencies (if you ever use JS)
+node_modules/
+
+# Temporary editor/OS files
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+
+# Environment files
+.env
